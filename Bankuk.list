@@ -1,0 +1,26 @@
+# 代理补充列表
+
+# 域名后缀匹配
+#DOMAIN-SUFFIX,qichiyu.com
+
+# 域名关键字匹配
+#DOMAIN-KEYWORD,1e100
+
+# IP段匹配
+#IP-CIDR,142.171.133.131/32,no-resolve
+#IP-CIDR,103.115.43.2/32,no-resolve
+
+# 国外DNS
+DOMAIN-SUFFIX,experian.co.uk
+DOMAIN-SUFFIX,experianidentityservice.co.uk
+DOMAIN-SUFFIX,totallymoney.com
+DOMAIN-SUFFIX,equifax.co.uk
+DOMAIN-SUFFIX,vanquis.co.uk
+DOMAIN-SUFFIX,capitalone.co.uk
+DOMAIN-SUFFIX,aquacard.co.uk
+DOMAIN-SUFFIX,mbna.co.uk
+DOMAIN-SUFFIX,natwest.com
+DOMAIN-SUFFIX,lloydsbank.com
+DOMAIN-SUFFIX,moneysupermarket.com
+DOMAIN-SUFFIX,onmo.app
+DOMAIN-SUFFIX,loqbox.com

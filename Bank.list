@@ -11,8 +11,5 @@
 #IP-CIDR,103.115.43.2/32,no-resolve
 
 # 国外DNS
-DOMAIN-SUFFIX,textnow.me
-DOMAIN-SUFFIX,offerup.com
-DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,equifax.com
 

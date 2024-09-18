@@ -11,16 +11,4 @@
 #IP-CIDR,103.115.43.2/32,no-resolve
 
 # 国外DNS
-DOMAIN-SUFFIX,experian.co.uk
-DOMAIN-SUFFIX,experianidentityservice.co.uk
-DOMAIN-SUFFIX,totallymoney.com
-DOMAIN-SUFFIX,equifax.co.uk
-DOMAIN-SUFFIX,vanquis.co.uk
-DOMAIN-SUFFIX,capitalone.co.uk
-DOMAIN-SUFFIX,aquacard.co.uk
-DOMAIN-SUFFIX,mbna.co.uk
-DOMAIN-SUFFIX,natwest.com
-DOMAIN-SUFFIX,lloydsbank.com
-DOMAIN-SUFFIX,moneysupermarket.com
-DOMAIN-SUFFIX,onmo.app
-DOMAIN-SUFFIX,loqbox.com
+
